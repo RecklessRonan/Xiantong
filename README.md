@@ -1,5 +1,5 @@
 # Xiantong
-Deep learning study based on Xiantong School's data
+Deep learning study based on Xiantong School's data.
 
 ## image_classification.ipynb
 
